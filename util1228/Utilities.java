@@ -1,7 +1,4 @@
 //CurrencyDriver.java
-//Assignment03
-// Patel,Parth
-//A00424939
 // This program is working and complete.
 package util1228;
 

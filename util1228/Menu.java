@@ -1,7 +1,4 @@
 // Menu.java
-// Assingment04
-// Patel,Parth
-// A00424939
 // This class is working to requirement.
 package util1228;
 
